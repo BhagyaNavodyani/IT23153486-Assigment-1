@@ -31,7 +31,7 @@ You'll need to have these things installed first:
 ### Clone it
 ```bash
 git clone <repository-url> #repo url have inside the IT23153486.txt file
-cd IT23153486
+cd IT23153486-Assigment-1
 ```
 
 ### Install dependencies
@@ -43,6 +43,12 @@ That's it! It'll download Playwright and all the other stuff you need.
 
 
 
+# install Playwright Test as a dev dependency
+npm install -D @playwright/test
+
+# download Chromium, Firefox and WebKit browser binaries
+npx playwright install
+```
 
 
 
