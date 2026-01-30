@@ -45,9 +45,11 @@ That's it! It'll download Playwright and all the other stuff you need.
 
 
 # install Playwright Test as a dev dependency
+```bash
 npm install -D @playwright/test
-
+```
 # download Chromium, Firefox and WebKit browser binaries
+```bash
 npx playwright install
 ```
 
