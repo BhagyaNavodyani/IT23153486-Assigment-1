@@ -30,7 +30,8 @@ You'll need to have these things installed first:
 
 ### Clone it
 ```bash
-git clone <repository-url> #repo url have inside the IT23153486.txt file
+git clone <repository-url>
+//git clone https://github.com/BhagyaNavodyani/IT23153486-Assigment-1.git
 cd IT23153486-Assigment-1
 ```
 
